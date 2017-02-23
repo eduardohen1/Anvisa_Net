@@ -1,0 +1,14 @@
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\bin\Debug\Anvisa_Net.exe
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\bin\Debug\Anvisa_Net.pdb
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\bin\Debug\Anvisa_Net.xml
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\ResolveAssemblyReference.cache
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.FrmPrincipal.resources
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.FrmValidacao.resources
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.Resources.resources
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.vbproj.GenerateResource.Cache
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.exe
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.xml
+D:\Meus documentos\Visual Studio 2008\Projects\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.pdb
+F:\Fontes\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.exe
+F:\Fontes\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.xml
+F:\Fontes\Anvisa_Net\Anvisa_Net\obj\Debug\Anvisa_Net.pdb
